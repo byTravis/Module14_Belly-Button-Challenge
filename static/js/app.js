@@ -81,8 +81,8 @@ function bubble_chart(subject_id, sample_values, otu_ids, otu_labels) {
 
     let layout = {
         title: "<b>Bacteria Cultures Per Subject ID</b>",
-        xaxis: {title: "OTU ID", titlefont: {size: 11, color: "#A0A0A0"}},
-        yaxis: {title: "Sample Values", titlefont: {size: 11, color: "#A0A0A0"}},
+        xaxis: {title: "OTU ID", titlefont: {size: 11, color: "#808080"}},
+        yaxis: {title: "Sample Values", titlefont: {size: 11, color: "#808080"}},
     };
 
     Plotly.newPlot("bubble", trace_data, layout);
