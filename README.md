@@ -15,12 +15,13 @@ The dataset reveals that a small handful of microbial species (also called opera
 4. Display the sample metadata, in the Demographic Info box.
 5. Update all the plots and Demographic Info box when a new sample is selected. 
 6. Deploy your app to a free static page hosting service, such as GitHub Pages. 
-7. **Bonus:**  Create a Gauge Chart based on Belly Button Washing Frequency
+
+- **Bonus:**  Create a Gauge Chart based on Belly Button Washing Frequency
 
 
 
 ## Final Result
-The dashboard for the Belly Button Biodiversity dataset can be found in the [Live Demo](https://bytravis.github.io/Module14_Belly-Button-Challenge/)
+The dashboard for the ***Belly Button Biodiversity*** dataset can be found in the [Live Demo](https://bytravis.github.io/Module14_Belly-Button-Challenge/)
 
-![Belly Button Biodiversity Dashboard](images/dashboard_sample.JPG)
+[![Belly Button Biodiversity Dashboard](images/dashboard_sample.JPG)](https://bytravis.github.io/Module14_Belly-Button-Challenge/)
 
