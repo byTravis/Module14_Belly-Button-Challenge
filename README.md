@@ -21,7 +21,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 ## Final Result
-The dashboard for the ***Belly Button Biodiversity*** dataset can be found in the [Live Demo](https://bytravis.github.io/Module14_Belly-Button-Challenge/)
+The dashboard for the *Belly Button Biodiversity* dataset can be found in the [Live Demo](https://bytravis.github.io/Module14_Belly-Button-Challenge/)
 
 [![Belly Button Biodiversity Dashboard](images/dashboard_sample.JPG)](https://bytravis.github.io/Module14_Belly-Button-Challenge/)
 
