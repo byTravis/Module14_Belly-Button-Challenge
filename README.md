@@ -16,7 +16,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 5. Update all the plots and Demographic Info box when a new sample is selected. 
 6. Deploy your app to a free static page hosting service, such as GitHub Pages. 
 
-- **Bonus:**  Create a Gauge Chart based on Belly Button Washing Frequency
+**Bonus:**  Create a Gauge Chart based on Belly Button Washing Frequency
 
 
 
